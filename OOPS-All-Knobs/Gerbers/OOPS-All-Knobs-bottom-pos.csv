@@ -1,4 +1,4 @@
-Ref,Val,Package,PosX,PosY,Rot,Side
+Designator,Val,Footprint,Mid X,Mid Y,Rotation,Layer
 C1,10u,C_0402_1005Metric,-68.4,-33.3,0,bottom
 C2,10u,C_0402_1005Metric,-64.952007,-33.041545,-90,bottom
 C3,4.7n,C_0402_1005Metric,-58.52,-25.5,180,bottom
